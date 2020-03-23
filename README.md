@@ -1,5 +1,6 @@
 # WebScienceCoursework
 student number: 2435044h
+MSc individual coursework
 
 
 The tweets_sample.json file is the data obtained by crawling from Twitter by running the DataCrawling.py file; the sample_DataProcessing_res.zip file stores the results after running DataProcessing.py, and the data for each type of emotion is stored in a separate csv file.
