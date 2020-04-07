@@ -10,4 +10,6 @@ The tweets_sample.json file is the data obtained by crawling from Twitter by run
 The actual data analyzed by this coursework is tweets.json. The analysis results and crowdsourcing results are stored in separate csv files in the DataProcessing & Crowdsourcing_res.zip file.
 
 
+Please fill in the corresponding information in the authentication.py file before running the program.
+
 When running real analysis data, you need to change the file name 'tweets_sample.json' in the code to 'tweets.json'.
